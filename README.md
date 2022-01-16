@@ -15,15 +15,15 @@ ITS ALL CREDITS GOES TO LEGENDBOY.
 USERNAME = ⚜[LEGEND-OS](https://github.com/LEGEND-OS)
 <h3> ∂єρℓογ το нєяοκυ </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGEND-LX/PYTHONBOT-V2.0.91)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/@Hecker_billi/PYTHONBOT-V2.0.91)
 __________COMING_SOON_______
 <p><a href=https://github.com/LEGEND-LX/PYTHONBOT-V9.0.8> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
 _______________String_Session__________________________
 
-[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@LEGEND-LX/PYTHONBOT-4#main.py) 
+[![String](https://telegra.ph/file/a776d32132d1bddf988de.jpg)](https://replit.com//PYTHONBOT-4#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Hecker_billi/PYTHONBOT-4#main.py) 
 
 Python_Session__________________________________________
 - Click On Generate String
